@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Alpha_0</string>
+    <string name="find_beer">FIND BEER</string>
+    <string name="brands"></string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+    <string name="send">Send Message</string>
+    <string name="chooser">Send message...</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+
 </resources>
